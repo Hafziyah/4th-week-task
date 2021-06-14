@@ -1,0 +1,66 @@
+h2 {
+  text-align: center;
+  color: grey;
+  font-weight: lighter;
+}
+
+.container {
+  margin: 1em;
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.container h4 {
+  text-align: left;
+}
+
+.selection {
+  border: 2px solid lightgrey;
+  border-width: 60%;
+}
+
+.buttons {
+  margin-bottom: 1em;
+  padding: 1em;
+  width: 7%;
+  margin-left: 38em;
+}
+
+.form-group {
+  border-radius: 100px;
+  margin: 0.6em;
+  margin-left: 0.1em;
+}
+
+form-control mb-2 mr-sm-2 title {
+  width: 30%;
+}
+
+.form-group .form-control focus-visible {
+  width: 30%;
+  margin-left: 400px;
+}
+
+.items-listed {
+  border: 2px solid lightgrey;
+  border-width: 80%;
+  line-height: normal;
+}
+
+.items-listed h4,
+p {
+  text-align: left;
+}
+
+.button-1,
+.button-2 {
+  display: inline-block;
+}
+
+.btn-default {
+  background-color: rgb(71, 226, 71);
+}
+
+hr {
+  border: 1px solid lightgray;
+}
